@@ -11,7 +11,11 @@ The goal of our project is to develop an AI agent that can autonomously navigate
 ## AL/ML Algorithm
 We plan to use reinforcement learning methods, such as Proximal Policy Optimization (PPO), with neural network function approximators to train the agent, focusing on on-policy learning for efficient policy updates.
 
-## Evalation Plan
+## Evaluation Plan
+**Quantitative Evaluation** \
+We plan to evaluate our project using metrics such as the total number of valuable ores mined per episode, the survival time of the agent in the underground environment, and the number of hazards (lava pits) avoided. Our baseline performance will be a random action agent and we will compare it against our trained reinforcement learning agent. We expect our trained RL agent to increase the number of ores mined by at least 10 times compared to the baseline agent while significantly reducing the number of hazards encoutered. We will evaluate the agents on running results collected from multiple precedually-generated Minecraft underground environments to ensure testing of diverse scenarios. 
+
+**Qualitative Analysis** \
 TBD
 
 ## Meet the Instructor
