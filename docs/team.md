@@ -6,11 +6,11 @@ title:  Team
 # {{ page.title }}
 
 
-## USER 1
-***UCI Net ID***: ucinetid1
+## Min Huang
+***UCI Net ID***: minh8
 
-## USER 2
-***UCI Net ID***: ucinetid2
+## Ge Gao
+***UCI Net ID***: gaog5
 
-## USER 3
-***UCI Net ID***: ucinetid3
+## Yash Balaji Pathak
+***UCI Net ID***: pathaky
