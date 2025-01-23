@@ -16,7 +16,7 @@ We plan to use reinforcement learning methods, such as Proximal Policy Optimizat
 We plan to evaluate our project using metrics such as the total number of valuable ores mined per episode, the survival time of the agent in the underground environment, and the number of hazards (lava pits) avoided. Our baseline performance will be a random action agent and we will compare it against our trained reinforcement learning agent. We expect our trained RL agent to increase the number of ores mined by at least 10 times compared to the baseline agent while significantly reducing the number of hazards encoutered. We will evaluate the agents on running results collected from multiple precedually-generated Minecraft underground environments to ensure testing of diverse scenarios. 
 
 **Qualitative Analysis** \
-TBD
+To verify our project's success, we plan to demonstrate the agent navigating different "level"s of simulation, such as simple environments with a single obstacle or ore, and gradually building up with more obstacles and ores to work with. Visualizations will include trajectory maps, decision trees for tool selection, and heatmaps of explored areas. Our goal is to design an agent that consistently succeeds in complex, procedurally generated environments with multiple obstacles (lava pits) and rewards (ores when mined with correct pickaxe), along with varied resource types.
 
 ## Meet the Instructor
 Out first meeting with Professor Roy Fox will be on Jan. 27th, 2025 at 10:30 AM.
