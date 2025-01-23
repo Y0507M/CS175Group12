@@ -19,7 +19,7 @@ We plan to evaluate our project using metrics such as the total number of valuab
 TBD
 
 ## Meet the Instructor
-Out first meeting with Professor Roy Fox will be on Jan. 23rd, 2025 at 10:30 AM.
+Out first meeting with Professor Roy Fox will be on Jan. 27th, 2025 at 10:30 AM.
 
 ## AI Tool Usage
 In this project, we plan to use AI tools such as ChatGPT and GitHub Copilot to assist with researching, brainstorming, coding, and debugging, while ensuring that these tools are not overly relied upon. We are aware that these AI tools can fail, so we will be using them both carefully and sparingly.
