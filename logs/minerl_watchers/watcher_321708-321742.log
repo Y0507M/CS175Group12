@@ -1,0 +1,2 @@
+2025-02-21 01:38:06 hpc3-gpu-16-06 process_watcher[321774] INFO Process watcher started between parent 321708 and child 321742 
+2025-02-21 02:12:55 hpc3-gpu-16-06 process_watcher[321774] INFO Child is not running anymore, launcher can terminate.

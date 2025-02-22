@@ -1,0 +1,2 @@
+2025-02-21 04:18:54 hpc3-23-02 process_watcher[1634187] INFO Process watcher started between parent 1634155 and child 1634161 
+2025-02-21 04:19:09 hpc3-23-02 process_watcher[1634187] INFO Parent is not running, hence we need terminate the child.

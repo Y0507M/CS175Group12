@@ -1,0 +1,2 @@
+2025-02-21 04:32:23 hpc3-15-16 process_watcher[466841] INFO Process watcher started between parent 466780 and child 466797 
+2025-02-21 04:33:13 hpc3-15-16 process_watcher[466841] INFO Child is not running anymore, launcher can terminate.
