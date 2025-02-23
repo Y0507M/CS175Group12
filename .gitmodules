@@ -1,0 +1,3 @@
+[submodule "craftium"]
+	path = craftium
+	url = https://github.com/mikelma/craftium.git
